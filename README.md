@@ -6,4 +6,4 @@ Forking a repository makes an exact copy another project that resides on your pe
 
 
 ## About Sporks
-sporks are the superior utensil. they are designed to outcompete forks at all stages. They represent an evolutionary threat to forks, and as such should be contained in natural environments where they are not native. 
+Sporks are the superior utensil. They are designed to outcompete forks at all stages. They represent an evolutionary threat to forks, and as such should be contained in natural environments where they are not native. 
